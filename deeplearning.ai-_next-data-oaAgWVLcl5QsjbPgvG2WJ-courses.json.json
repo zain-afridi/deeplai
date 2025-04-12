@@ -1,0 +1,726 @@
+{
+  "pageProps": {
+    "page": {
+      "id": "cG9zdDoyNzA4Ng==",
+      "slug": "courses",
+      "title": "Courses",
+      "excerpt": "",
+      "featuredImage": {
+        "node": {
+          "altText": "",
+          "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/06/course-index-preview-v2.png",
+          "mediaDetails": {
+            "height": 1260,
+            "width": 2400
+          }
+        }
+      },
+      "date": "2022-07-14T05:59:23",
+      "modified": "2024-08-08T15:01:56",
+      "seo": {
+        "canonical": "",
+        "title": "Courses - DeepLearning.AI",
+        "metaKeywords": "",
+        "metaDesc": "Discover the best courses to build a career in AI | Whether you're a beginner or an experienced practitioner, our world-class curriculum and unique teaching methodology will guide you through every stage of your Al journey.",
+        "metaRobotsNofollow": "follow",
+        "metaRobotsNoindex": "noindex",
+        "opengraphDescription": "Discover the best courses to build a career in AI | Whether you're a beginner or an experienced practitioner, our world-class curriculum and unique teaching methodology will guide you through every stage of your Al journey.",
+        "opengraphImage": {
+          "altText": "",
+          "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/06/course-index-preview-v2.png",
+          "mediaDetails": {
+            "width": 2400,
+            "height": 1260
+          }
+        },
+        "opengraphTitle": "Courses",
+        "opengraphType": "article",
+        "twitterDescription": "",
+        "twitterTitle": ""
+      },
+      "coursesPage": {
+        "featuredCourses": [
+          {
+            "__typename": "ShortCourse",
+            "slug": "ai-python-for-beginners",
+            "title": "AI Python for Beginners",
+            "courseIndexPageCardFields": {
+              "indexPageCardTitle": "AI Python for Beginners",
+              "indexPageCardExcerpt": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+              "indexPageCardImage": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/08/Most-Popular-section-card-2.png"
+              },
+              "indexPageCardPartnership": [
+                {
+                  "title": "DeepLearning.AI",
+                  "logo": {
+                    "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                  }
+                }
+              ]
+            },
+            "courseFilters": {
+              "filterCourseType": "Short Courses"
+            }
+          },
+          {
+            "__typename": "ShortCourse",
+            "slug": "chatgpt-prompt-engineering-for-developers",
+            "title": "ChatGPT Prompt Engineering for Developers",
+            "courseIndexPageCardFields": {
+              "indexPageCardTitle": "ChatGPT Prompt Engineering for Developers",
+              "indexPageCardExcerpt": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+              "indexPageCardImage": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/04/chatgpt-prompt-for-engineering.png"
+              },
+              "indexPageCardPartnership": [
+                {
+                  "title": "OpenAI",
+                  "logo": {
+                    "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/04/openai-1.png"
+                  }
+                }
+              ]
+            },
+            "courseFilters": {
+              "filterCourseType": "Short Courses"
+            }
+          },
+          {
+            "__typename": "Program",
+            "slug": "generative-ai-for-everyone",
+            "title": "Generative AI for Everyone",
+            "courseIndexPageCardFields": {
+              "indexPageCardTitle": "Generative AI for Everyone",
+              "indexPageCardExcerpt": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+              "indexPageCardImage": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/10/GenAI4E_2x.png"
+              },
+              "indexPageCardPartnership": [
+                {
+                  "title": "DeepLearning.AI",
+                  "logo": {
+                    "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                  }
+                }
+              ]
+            },
+            "courseFilters": {
+              "filterCourseType": "Courses"
+            }
+          },
+          {
+            "__typename": "Program",
+            "slug": "machine-learning-specialization",
+            "title": "Machine Learning Specialization",
+            "courseIndexPageCardFields": {
+              "indexPageCardTitle": "Machine Learning Specialization",
+              "indexPageCardExcerpt": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+              "indexPageCardImage": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2022/04/MLS-index-card_2x-1.png"
+              },
+              "indexPageCardPartnership": [
+                {
+                  "title": "Stanford Online",
+                  "logo": {
+                    "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2022/04/stanford-online.webp"
+                  }
+                }
+              ]
+            },
+            "courseFilters": {
+              "filterCourseType": "Specializations"
+            }
+          },
+          {
+            "__typename": "ShortCourse",
+            "slug": "multi-ai-agent-systems-with-crewai",
+            "title": "Multi AI Agent Systems with crewAI",
+            "courseIndexPageCardFields": {
+              "indexPageCardTitle": "Multi AI Agent Systems with crewAI",
+              "indexPageCardExcerpt": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+              "indexPageCardImage": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/crewAI_2x.png"
+              },
+              "indexPageCardPartnership": [
+                {
+                  "title": "crewAI",
+                  "logo": {
+                    "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/crewai.jpeg"
+                  }
+                }
+              ]
+            },
+            "courseFilters": {
+              "filterCourseType": "Short Courses"
+            }
+          },
+          {
+            "__typename": "ShortCourse",
+            "slug": "langchain-for-llm-application-development",
+            "title": "LangChain for LLM Application Development",
+            "courseIndexPageCardFields": {
+              "indexPageCardTitle": "LangChain for LLM Application Development",
+              "indexPageCardExcerpt": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+              "indexPageCardImage": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/05/langchain-for-llm-application-development.png"
+              },
+              "indexPageCardPartnership": [
+                {
+                  "title": "LangChain",
+                  "logo": {
+                    "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/06/langchain.png"
+                  }
+                }
+              ]
+            },
+            "courseFilters": {
+              "filterCourseType": "Short Courses"
+            }
+          },
+          {
+            "__typename": "Program",
+            "slug": "ai-for-everyone",
+            "title": "AI for Everyone",
+            "courseIndexPageCardFields": {
+              "indexPageCardTitle": "AI for Everyone",
+              "indexPageCardExcerpt": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+              "indexPageCardImage": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2020/12/AI4E_2x.png"
+              },
+              "indexPageCardPartnership": [
+                {
+                  "title": "DeepLearning.AI",
+                  "logo": {
+                    "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                  }
+                }
+              ]
+            },
+            "courseFilters": {
+              "filterCourseType": "Courses"
+            }
+          }
+        ],
+        "topRatedCourses": [
+          {
+            "__typename": "Program",
+            "slug": "generative-ai-for-everyone",
+            "title": "Generative AI for Everyone",
+            "courseIndexPageCardFields": {
+              "indexPageCardTitle": "Generative AI for Everyone",
+              "indexPageCardExcerpt": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+              "indexPageCardImage": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/10/GenAI4E_2x.png"
+              },
+              "indexPageCardPartnership": [
+                {
+                  "title": "DeepLearning.AI",
+                  "logo": {
+                    "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                  }
+                }
+              ]
+            },
+            "courseFilters": {
+              "filterCourseType": "Courses"
+            }
+          },
+          {
+            "__typename": "Program",
+            "slug": "machine-learning-specialization",
+            "title": "Machine Learning Specialization",
+            "courseIndexPageCardFields": {
+              "indexPageCardTitle": "Machine Learning Specialization",
+              "indexPageCardExcerpt": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+              "indexPageCardImage": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2022/04/MLS-index-card_2x-1.png"
+              },
+              "indexPageCardPartnership": [
+                {
+                  "title": "Stanford Online",
+                  "logo": {
+                    "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2022/04/stanford-online.webp"
+                  }
+                }
+              ]
+            },
+            "courseFilters": {
+              "filterCourseType": "Specializations"
+            }
+          },
+          {
+            "__typename": "ShortCourse",
+            "slug": "multi-ai-agent-systems-with-crewai",
+            "title": "Multi AI Agent Systems with crewAI",
+            "courseIndexPageCardFields": {
+              "indexPageCardTitle": "Multi AI Agent Systems with crewAI",
+              "indexPageCardExcerpt": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+              "indexPageCardImage": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/crewAI_2x.png"
+              },
+              "indexPageCardPartnership": [
+                {
+                  "title": "crewAI",
+                  "logo": {
+                    "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/crewai.jpeg"
+                  }
+                }
+              ]
+            },
+            "courseFilters": {
+              "filterCourseType": "Short Courses"
+            }
+          },
+          {
+            "__typename": "ShortCourse",
+            "slug": "open-source-models-hugging-face",
+            "title": "Open Source Models with Hugging Face",
+            "courseIndexPageCardFields": {
+              "indexPageCardTitle": "Open Source Models with Hugging Face",
+              "indexPageCardExcerpt": "Learn how to easily build AI applications using open-source models and Hugging Face tools. Find and filter open-source models on Hugging Face Hub.",
+              "indexPageCardImage": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/03/HF-C3_2x.png"
+              },
+              "indexPageCardPartnership": [
+                {
+                  "title": "Hugging Face",
+                  "logo": {
+                    "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/hugging-face.png"
+                  }
+                }
+              ]
+            },
+            "courseFilters": {
+              "filterCourseType": "Short Courses"
+            }
+          },
+          {
+            "__typename": "Program",
+            "slug": "deep-learning-specialization",
+            "title": "Deep Learning Specialization",
+            "courseIndexPageCardFields": {
+              "indexPageCardTitle": "Deep Learning Specialization",
+              "indexPageCardExcerpt": "Build neural networks (CNNs, RNNs, LSTMs, Transformers) and apply them to speech recognition, NLP, and more using Python and TensorFlow.",
+              "indexPageCardImage": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2020/12/DLS_2x.png"
+              },
+              "indexPageCardPartnership": [
+                {
+                  "title": "DeepLearning.AI",
+                  "logo": {
+                    "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                  }
+                }
+              ]
+            },
+            "courseFilters": {
+              "filterCourseType": "Specializations"
+            }
+          },
+          {
+            "__typename": "ShortCourse",
+            "slug": "langchain-chat-with-your-data",
+            "title": "LangChain: Chat with Your Data",
+            "courseIndexPageCardFields": {
+              "indexPageCardTitle": "LangChain: Chat with Your Data",
+              "indexPageCardExcerpt": "Create a chatbot with LangChain to interface with your private data and documents. Learn from LangChain creator, Harrison Chase.",
+              "indexPageCardImage": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/07/Most-Popular-course-cards-2.png"
+              },
+              "indexPageCardPartnership": [
+                {
+                  "title": "LangChain",
+                  "logo": {
+                    "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/06/langchain.png"
+                  }
+                }
+              ]
+            },
+            "courseFilters": {
+              "filterCourseType": "Short Courses"
+            }
+          }
+        ]
+      }
+    },
+    "featuredCourses": [
+      {
+        "__typename": "ShortCourse",
+        "slug": "ai-python-for-beginners",
+        "title": "AI Python for Beginners",
+        "courseIndexPageCardFields": {
+          "indexPageCardTitle": "AI Python for Beginners",
+          "indexPageCardExcerpt": "Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.",
+          "indexPageCardImage": {
+            "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/08/Most-Popular-section-card-2.png"
+          },
+          "indexPageCardPartnership": [
+            {
+              "title": "DeepLearning.AI",
+              "logo": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+              }
+            }
+          ]
+        },
+        "courseFilters": {
+          "filterCourseType": "Short Courses"
+        }
+      },
+      {
+        "__typename": "ShortCourse",
+        "slug": "chatgpt-prompt-engineering-for-developers",
+        "title": "ChatGPT Prompt Engineering for Developers",
+        "courseIndexPageCardFields": {
+          "indexPageCardTitle": "ChatGPT Prompt Engineering for Developers",
+          "indexPageCardExcerpt": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+          "indexPageCardImage": {
+            "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/04/chatgpt-prompt-for-engineering.png"
+          },
+          "indexPageCardPartnership": [
+            {
+              "title": "OpenAI",
+              "logo": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/04/openai-1.png"
+              }
+            }
+          ]
+        },
+        "courseFilters": {
+          "filterCourseType": "Short Courses"
+        }
+      },
+      {
+        "__typename": "Program",
+        "slug": "generative-ai-for-everyone",
+        "title": "Generative AI for Everyone",
+        "courseIndexPageCardFields": {
+          "indexPageCardTitle": "Generative AI for Everyone",
+          "indexPageCardExcerpt": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+          "indexPageCardImage": {
+            "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/10/GenAI4E_2x.png"
+          },
+          "indexPageCardPartnership": [
+            {
+              "title": "DeepLearning.AI",
+              "logo": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+              }
+            }
+          ]
+        },
+        "courseFilters": {
+          "filterCourseType": "Courses"
+        }
+      },
+      {
+        "__typename": "Program",
+        "slug": "machine-learning-specialization",
+        "title": "Machine Learning Specialization",
+        "courseIndexPageCardFields": {
+          "indexPageCardTitle": "Machine Learning Specialization",
+          "indexPageCardExcerpt": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+          "indexPageCardImage": {
+            "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2022/04/MLS-index-card_2x-1.png"
+          },
+          "indexPageCardPartnership": [
+            {
+              "title": "Stanford Online",
+              "logo": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2022/04/stanford-online.webp"
+              }
+            }
+          ]
+        },
+        "courseFilters": {
+          "filterCourseType": "Specializations"
+        }
+      },
+      {
+        "__typename": "ShortCourse",
+        "slug": "multi-ai-agent-systems-with-crewai",
+        "title": "Multi AI Agent Systems with crewAI",
+        "courseIndexPageCardFields": {
+          "indexPageCardTitle": "Multi AI Agent Systems with crewAI",
+          "indexPageCardExcerpt": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+          "indexPageCardImage": {
+            "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/crewAI_2x.png"
+          },
+          "indexPageCardPartnership": [
+            {
+              "title": "crewAI",
+              "logo": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/crewai.jpeg"
+              }
+            }
+          ]
+        },
+        "courseFilters": {
+          "filterCourseType": "Short Courses"
+        }
+      },
+      {
+        "__typename": "ShortCourse",
+        "slug": "langchain-for-llm-application-development",
+        "title": "LangChain for LLM Application Development",
+        "courseIndexPageCardFields": {
+          "indexPageCardTitle": "LangChain for LLM Application Development",
+          "indexPageCardExcerpt": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+          "indexPageCardImage": {
+            "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/05/langchain-for-llm-application-development.png"
+          },
+          "indexPageCardPartnership": [
+            {
+              "title": "LangChain",
+              "logo": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/06/langchain.png"
+              }
+            }
+          ]
+        },
+        "courseFilters": {
+          "filterCourseType": "Short Courses"
+        }
+      },
+      {
+        "__typename": "Program",
+        "slug": "ai-for-everyone",
+        "title": "AI for Everyone",
+        "courseIndexPageCardFields": {
+          "indexPageCardTitle": "AI for Everyone",
+          "indexPageCardExcerpt": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+          "indexPageCardImage": {
+            "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2020/12/AI4E_2x.png"
+          },
+          "indexPageCardPartnership": [
+            {
+              "title": "DeepLearning.AI",
+              "logo": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+              }
+            }
+          ]
+        },
+        "courseFilters": {
+          "filterCourseType": "Courses"
+        }
+      }
+    ],
+    "topRatedCourses": [
+      {
+        "__typename": "Program",
+        "slug": "generative-ai-for-everyone",
+        "title": "Generative AI for Everyone",
+        "courseIndexPageCardFields": {
+          "indexPageCardTitle": "Generative AI for Everyone",
+          "indexPageCardExcerpt": "Learn how to use generative AI's capabilities & limitations. Get an overview of real-world examples, and impact on business & society for effective strategies.",
+          "indexPageCardImage": {
+            "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/10/GenAI4E_2x.png"
+          },
+          "indexPageCardPartnership": [
+            {
+              "title": "DeepLearning.AI",
+              "logo": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+              }
+            }
+          ]
+        },
+        "courseFilters": {
+          "filterCourseType": "Courses"
+        }
+      },
+      {
+        "__typename": "Program",
+        "slug": "machine-learning-specialization",
+        "title": "Machine Learning Specialization",
+        "courseIndexPageCardFields": {
+          "indexPageCardTitle": "Machine Learning Specialization",
+          "indexPageCardExcerpt": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+          "indexPageCardImage": {
+            "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2022/04/MLS-index-card_2x-1.png"
+          },
+          "indexPageCardPartnership": [
+            {
+              "title": "Stanford Online",
+              "logo": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2022/04/stanford-online.webp"
+              }
+            }
+          ]
+        },
+        "courseFilters": {
+          "filterCourseType": "Specializations"
+        }
+      },
+      {
+        "__typename": "ShortCourse",
+        "slug": "multi-ai-agent-systems-with-crewai",
+        "title": "Multi AI Agent Systems with crewAI",
+        "courseIndexPageCardFields": {
+          "indexPageCardTitle": "Multi AI Agent Systems with crewAI",
+          "indexPageCardExcerpt": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+          "indexPageCardImage": {
+            "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/crewAI_2x.png"
+          },
+          "indexPageCardPartnership": [
+            {
+              "title": "crewAI",
+              "logo": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/crewai.jpeg"
+              }
+            }
+          ]
+        },
+        "courseFilters": {
+          "filterCourseType": "Short Courses"
+        }
+      },
+      {
+        "__typename": "ShortCourse",
+        "slug": "open-source-models-hugging-face",
+        "title": "Open Source Models with Hugging Face",
+        "courseIndexPageCardFields": {
+          "indexPageCardTitle": "Open Source Models with Hugging Face",
+          "indexPageCardExcerpt": "Learn how to easily build AI applications using open-source models and Hugging Face tools. Find and filter open-source models on Hugging Face Hub.",
+          "indexPageCardImage": {
+            "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/03/HF-C3_2x.png"
+          },
+          "indexPageCardPartnership": [
+            {
+              "title": "Hugging Face",
+              "logo": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/hugging-face.png"
+              }
+            }
+          ]
+        },
+        "courseFilters": {
+          "filterCourseType": "Short Courses"
+        }
+      },
+      {
+        "__typename": "Program",
+        "slug": "deep-learning-specialization",
+        "title": "Deep Learning Specialization",
+        "courseIndexPageCardFields": {
+          "indexPageCardTitle": "Deep Learning Specialization",
+          "indexPageCardExcerpt": "Build neural networks (CNNs, RNNs, LSTMs, Transformers) and apply them to speech recognition, NLP, and more using Python and TensorFlow.",
+          "indexPageCardImage": {
+            "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2020/12/DLS_2x.png"
+          },
+          "indexPageCardPartnership": [
+            {
+              "title": "DeepLearning.AI",
+              "logo": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+              }
+            }
+          ]
+        },
+        "courseFilters": {
+          "filterCourseType": "Specializations"
+        }
+      },
+      {
+        "__typename": "ShortCourse",
+        "slug": "langchain-chat-with-your-data",
+        "title": "LangChain: Chat with Your Data",
+        "courseIndexPageCardFields": {
+          "indexPageCardTitle": "LangChain: Chat with Your Data",
+          "indexPageCardExcerpt": "Create a chatbot with LangChain to interface with your private data and documents. Learn from LangChain creator, Harrison Chase.",
+          "indexPageCardImage": {
+            "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/07/Most-Popular-course-cards-2.png"
+          },
+          "indexPageCardPartnership": [
+            {
+              "title": "LangChain",
+              "logo": {
+                "sourceUrl": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/06/langchain.png"
+              }
+            }
+          ]
+        },
+        "courseFilters": {
+          "filterCourseType": "Short Courses"
+        }
+      }
+    ],
+    "announcementBanners": {
+      "nodes": [
+        {
+          "title": "DAG C3",
+          "date": "2025-04-09T10:56:15",
+          "databaseId": 36391,
+          "announcementBannerCustomFields": {
+            "text": "✨ New course! Enroll in",
+            "textColor": "#FFFFFF",
+            "courseLink": "https://bit.ly/3Y0qNQx",
+            "courseName": "Python for Data Analytics",
+            "backgroundColor": "#05256C",
+            "backgroundGradientColor": null,
+            "isOpenInNewTab": true
+          }
+        },
+        {
+          "title": "DotTxt C1",
+          "date": "2025-04-02T07:10:30",
+          "databaseId": 36365,
+          "announcementBannerCustomFields": {
+            "text": "✨ New course! Enroll in",
+            "textColor": "#000000",
+            "courseLink": "https://bit.ly/3FRcZBW",
+            "courseName": "Getting Structured LLM Output",
+            "backgroundColor": "#ededed",
+            "backgroundGradientColor": null,
+            "isOpenInNewTab": true
+          }
+        },
+        {
+          "title": "Replit C1",
+          "date": "2025-03-26T05:23:35",
+          "databaseId": 36333,
+          "announcementBannerCustomFields": {
+            "text": "✨ New course! Enroll in",
+            "textColor": "#FFFFFF",
+            "courseLink": "https://bit.ly/4l8QyZ5",
+            "courseName": "Vibe Coding 101 with Replit",
+            "backgroundColor": "#05256C",
+            "backgroundGradientColor": "linear-gradient(318deg, rgba(27,34,51,1) 0%, rgba(11,20,24,1) 100%)",
+            "isOpenInNewTab": true
+          }
+        },
+        {
+          "title": "Data Analytics",
+          "date": "2025-03-18T09:14:35",
+          "databaseId": 36310,
+          "announcementBannerCustomFields": {
+            "text": "✨ New Professional Certificate! Enroll in",
+            "textColor": "#FFFFFF",
+            "courseLink": "https://bit.ly/3Y0qNQx",
+            "courseName": "Data Analytics",
+            "backgroundColor": "#3900a3",
+            "backgroundGradientColor": "linear-gradient(180deg, rgba(47,32,102,1) 0%, rgba(149,101,247,1) 100%, rgba(0,0,0,1) 100%, rgba(0,0,0,1) 100%)",
+            "isOpenInNewTab": true
+          }
+        },
+        {
+          "title": "LangChain C6",
+          "date": "2025-03-14T06:51:31",
+          "databaseId": 36301,
+          "announcementBannerCustomFields": {
+            "text": "✨ New course! Enroll in",
+            "textColor": "#FFFFFF",
+            "courseLink": "https://bit.ly/4bWqOe3",
+            "courseName": "Long-Term Agentic Memory with LangGraph",
+            "backgroundColor": "#05256C",
+            "backgroundGradientColor": "linear-gradient(318deg, rgba(183,171,253,1) 0%, rgba(122,99,251,1) 100%)",
+            "isOpenInNewTab": true
+          }
+        }
+      ]
+    }
+  },
+  "__N_SSG": true
+}
